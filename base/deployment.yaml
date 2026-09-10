@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: flaskapp
-          image: lowie23/flaskapp:placeholder
+          image: lowie23/flaskapp:52d6a95
           ports:
             - containerPort: 5000
